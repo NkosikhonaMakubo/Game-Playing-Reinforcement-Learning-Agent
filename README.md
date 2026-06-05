@@ -187,14 +187,6 @@ Use `--level N` with `train.py` and `watch_agent.py` for a specific level.
 
 ---
 
-## Deeper docs
-
-| Resource | Description |
-|----------|-------------|
-| `Stack_Smash_Presentation_Study_Guide.pdf` | Full talk track & Q&A (if present) |
-| `game_core.py` | Scoring formulas & tower logic |
-
----
 
 <p align="center">
   <sub>Built with Pygame · Pymunk · Gymnasium · Stable-Baselines3</sub>
