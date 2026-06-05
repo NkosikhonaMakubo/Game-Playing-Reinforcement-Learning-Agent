@@ -58,7 +58,7 @@ flowchart LR
 
 **Tower rule** - Only a **vertical column on your first tin** counts. Side placements or cans off the platform do not count.
 
-**Win** - Every level tin on that tower, then **every** one falls after the throw.
+**Win** - Every level tin is on the tower, then **every** single one falls after the throw.
 
 ---
 
