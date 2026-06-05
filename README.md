@@ -110,7 +110,7 @@ flowchart TB
 
 | Command | What it does |
 |---------|----------------|
-| `python train.py --timesteps 500000 --level 1` | Train agent using level 1 500000 times (~12 min on average) |
+| `python train.py --timesteps 500000 --level 1` | Train agent using level 1, 500000 times (~12 min on average) |
 | `python watch_agent.py` | **Watch only** - saved model plays the game, no training |
 | `python train.py --watch` | Train **and** watch live demos (slower training) |
 
@@ -129,7 +129,7 @@ flowchart TB
 <a id="setup"></a>
 
 ```powershell
-git clone <your-repo-url>
+git clone https://github.com/NkosikhonaMakubo/Game-Playing-Reinforcement-Learning-Agent
 cd Game-Playing-Reinforcement-Learning-Agent
 
 pip install -r requirements.txt      # play
