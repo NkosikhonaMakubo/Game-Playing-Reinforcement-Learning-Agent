@@ -129,7 +129,7 @@ flowchart TB
 <a id="setup"></a>
 
 ```powershell
-git clone https://github.com/NkosikhonaMakubo/Game-Playing-Reinforcement-Learning-Agent
+git clone <https://github.com/NkosikhonaMakubo/Game-Playing-Reinforcement-Learning-Agent.git>
 cd Game-Playing-Reinforcement-Learning-Agent
 
 pip install -r requirements.txt      # play
